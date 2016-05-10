@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8165103149355545
+  lightness: 0.012956124842444905
+  rhythmicContrast: 0.5257647247322785
+  saturation: 0.27677653363056454
+cta: {}
+layout_spectrum: 0.7061944649675951
+name: kogivice
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.6129837973308219
